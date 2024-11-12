@@ -1,0 +1,21 @@
+.nav-container{
+    width: 100%;
+    background-color: black;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-content{
+    width: 100%;
+    max-width: 600px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-content a{
+    color: white;
+}
